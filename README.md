@@ -1,1 +1,1 @@
-# Human-Activity-Recognition using Smart-Phone datasrt.
+# Human-Activity-Recognition using Smart-Phone dataset.
