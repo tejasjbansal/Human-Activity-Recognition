@@ -1,8 +1,9 @@
 # Human-Activity-Recognition using Smart-Phone dataset.
 
-# Link of Dataset :- https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+Link of Dataset :- https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
 
-# I used Artificial Neural Network with a validation accuracy of 95.98 % and a precision of 95% was achieved from the data to learn (as a cellphone attached on the waist) to recognise the type of activity that the user is doing.
+# Detail
+I used Artificial Neural Network with a validation accuracy of 95.98 % and a precision of 95% was achieved from the data to learn (as a cellphone attached on the waist) to recognise the type of activity that the user is doing.
 
 
 ![Screenshot (547)](https://user-images.githubusercontent.com/56173595/89116032-c3a42780-d4ac-11ea-9ac8-003f941bcf30.png)
